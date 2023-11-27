@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chad.
+I'm Chad. I'm a senior data engineer and all things data consultant. I analyze data storage and processing systems and identify opportunities for optimization and cost-savings. Most of my work is focused on the [Azure Cloud Platform](https://azure.microsoft.com/) and [Databricks](https://www.databricks.com/), although I have extensive experience working with on-premises data systems as well.
 
 <!--
 **chadhorne/chadhorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
